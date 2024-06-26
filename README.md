@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Tyler Simpson (donewiththedollar) 👋
 
-<!--
-**donewiththedollar/donewiththedollar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DirectionalScalper Project
+- [GitHub Repository](https://github.com/donewiththedollar/directionalscalper)
+- [Documentation](https://donewiththedollar.github.io/directionalscalper/)
 
-Here are some ideas to get you started:
+## GitHub Stats
+![donewiththedollar's GitHub stats](https://github-readme-stats.vercel.app/api?username=donewiththedollar&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donewiththedollar&layout=compact&theme=radical)
+
+## Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/donewiththedollar/count.svg)
+
+## Follow me
+[![GitHub](https://img.shields.io/github/followers/donewiththedollar?label=Follow&style=social)](https://github.com/donewiththedollar)
